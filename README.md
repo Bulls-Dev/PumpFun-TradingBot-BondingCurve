@@ -3,9 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![mjs](https://img.shields.io/badge/language-mjs-%2320232A?style=flat-square&logo=javascript&logoColor=white)
 
-<img width="1593" height="927" alt="361184197-86e011b7-7ac2-45ec-a3f3-baff72dae585" src="https://github.com/user-attachments/assets/c6c4a421-e4e6-4264-b243-c0bc968fe2a6" />
 <img width="1562" height="924" alt="361184177-c8d84258-3dc9-4333-bea0-df2d4fc1394b" src="https://github.com/user-attachments/assets/a87e301a-8abe-4395-9149-4cbd47fb6998" />
-
+<img width="1593" height="927" alt="361184197-86e011b7-7ac2-45ec-a3f3-baff72dae585" src="https://github.com/user-attachments/assets/c6c4a421-e4e6-4264-b243-c0bc968fe2a6" />
 
 ## Overview
 
@@ -100,3 +99,20 @@ This will execute the sale of all SPL tokens, following the stop-loss and profit
 
 ### Disclaimer
 Use this tool at your own risk. Cryptocurrency trading involves significant risk and can result in the loss of your capital. Always conduct thorough research before making any trading decisions.
+
+## 🌟 Support the Project
+
+If you find this bot helpful, please consider giving it a **Star**! It helps the project grow and motivates me to add more features.
+
+[![GitHub stars](https://img.shields.io/github/stars/Bulls-Dev/PumpFun-TradingBot-BondingCurve.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Bulls-Dev/PumpFun-TradingBot-BondingCurve)
+
+---
+
+## 🔗 Connect with Us
+
+Stay updated with our latest tools, services, and community discussions:
+
+| Platform | Link |
+| :--- | :--- |
+| 🛒 **Official Store** | [Visit Shop-Block-S-Dev](https://shop-block-s-dev.vercel.app/) |
+| 📢 **Telegram Channel** | [Join @dev_web3_blocks](https://t.me/dev_web3_blocks) |
