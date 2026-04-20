@@ -3,8 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![mjs](https://img.shields.io/badge/language-mjs-%2320232A?style=flat-square&logo=javascript&logoColor=white)
 
-![image](https://github.com/user-attachments/assets/c8d84258-3dc9-4333-bea0-df2d4fc1394b)
-![image](https://github.com/user-attachments/assets/86e011b7-7ac2-45ec-a3f3-baff72dae585)
+<img width="1593" height="927" alt="361184197-86e011b7-7ac2-45ec-a3f3-baff72dae585" src="https://github.com/user-attachments/assets/c6c4a421-e4e6-4264-b243-c0bc968fe2a6" />
+<img width="1562" height="924" alt="361184177-c8d84258-3dc9-4333-bea0-df2d4fc1394b" src="https://github.com/user-attachments/assets/a87e301a-8abe-4395-9149-4cbd47fb6998" />
 
 
 ## Overview
